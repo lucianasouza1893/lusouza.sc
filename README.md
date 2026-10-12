@@ -32,17 +32,19 @@ A seleção das fontes procurou reunir conteúdos introdutórios e práticos, ad
 4. **InfoMoney — Reserva de emergência: como fazer uma e quais os melhores investimentos.** Material sobre a importância da reserva de emergência, sua finalidade e os critérios relevantes para escolher aplicações destinadas a esse objetivo.  
    Link: https://www.infomoney.com.br/guias/reserva-de-emergencia/
 
-5. **Investidor Prático — Como escolher o primeiro investimento (guia simples para iniciantes).** Conteúdo direcionado à escolha de uma primeira aplicação financeira, considerando os conhecimentos e as necessidades do investidor iniciante.  
+   Notebook link: https://notebook.google.com/notebook/7785cf6f-fa7f-4ed9-9113-4dcc3bc11dbf
+
+6. **Investidor Prático — Como escolher o primeiro investimento (guia simples para iniciantes).** Conteúdo direcionado à escolha de uma primeira aplicação financeira, considerando os conhecimentos e as necessidades do investidor iniciante.  
    Link: https://investidorpratico.com/como-escolher-o-primeiro-investimento/
 
-6. **Feito.Itaú — Do zero aos primeiros rendimentos: como e por onde começar a investir?** Material educativo sobre o início da vida de investidor e a compreensão das primeiras decisões financeiras.  
+7. **Feito.Itaú — Do zero aos primeiros rendimentos: como e por onde começar a investir?** Material educativo sobre o início da vida de investidor e a compreensão das primeiras decisões financeiras.  
    Link: https://feito.itau.com.br/por-onde-comecar-a-investir/
 
-7. **Genial Investimentos — Investimentos financeiros: conceitos básicos para começar a investir.** Referência introdutória relacionada aos conceitos fundamentais dos investimentos financeiros. O endereço eletrônico original não estava disponível na relação de fontes recebida.
+8. **Genial Investimentos — Investimentos financeiros: conceitos básicos para começar a investir.** Referência introdutória relacionada aos conceitos fundamentais dos investimentos financeiros. O endereço eletrônico original não estava disponível na relação de fontes recebida.
 
-8. **Serasa — Primeiros passos para investir: guia prático para iniciantes.** Referência educativa relacionada aos primeiros passos no mercado financeiro e à preparação do investidor iniciante. O endereço eletrônico original não estava disponível na relação de fontes recebida.
+9. **Serasa — Primeiros passos para investir: guia prático para iniciantes.** Referência educativa relacionada aos primeiros passos no mercado financeiro e à preparação do investidor iniciante. O endereço eletrônico original não estava disponível na relação de fontes recebida.
 
-9. **Blog Santander — Renda Fixa e Renda Variável: qual a diferença?** Referência voltada à compreensão das diferenças entre as duas grandes categorias de investimentos e de suas características gerais. O endereço eletrônico original não estava disponível na relação de fontes recebida.
+10. **Blog Santander — Renda Fixa e Renda Variável: qual a diferença?** Referência voltada à compreensão das diferenças entre as duas grandes categorias de investimentos e de suas características gerais. O endereço eletrônico original não estava disponível na relação de fontes recebida.
 
 ### 2.2. Vídeos e tutoriais
 
